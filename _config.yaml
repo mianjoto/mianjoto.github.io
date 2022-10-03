@@ -1,1 +1,22 @@
+title: Miguel Jover | Portfolio
+description: Learn about Miguel Jover and his contributions through this portfolio
+author: "Miguel Jover"
+
 theme: minima
+
+# Social links
+github_username: mianjoto
+linkedin_username: mianjoto
+
+# Header links
+header_pages:
+  - _pages/index.md
+  - _pages/resume.md
+  - _pages/projects.md
+
+
+include:
+  - _pages
+
+exclude:
+  - README.md 
