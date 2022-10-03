@@ -4,6 +4,10 @@ author: "Miguel Jover"
 
 theme: minima
 
+baseurl: /
+url: https://mianjoto.github.io
+
+
 # Social links
 github_username: mianjoto
 linkedin_username: mianjoto
