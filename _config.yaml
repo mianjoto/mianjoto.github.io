@@ -10,9 +10,9 @@ linkedin_username: mianjoto
 
 # Header links
 header_pages:
-  - _pages/index.md
-  - _pages/resume.md
-  - _pages/projects.md
+  - /index.md
+  - /resume.md
+  - /projects.md
 
 include:
   - _pages
