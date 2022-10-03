@@ -1,5 +1,5 @@
-title: Miguel Jover | Portfolio
-description: Learn about Miguel Jover and his contributions through this portfolio
+title: Miguel Jover
+description: Portfolio
 author: "Miguel Jover"
 
 theme: minima
@@ -13,7 +13,6 @@ header_pages:
   - _pages/index.md
   - _pages/resume.md
   - _pages/projects.md
-
 
 include:
   - _pages
