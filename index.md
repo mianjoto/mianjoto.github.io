@@ -4,14 +4,10 @@ layout: home
 title: Miguel Jover
 ---
 
-![Image of Miguel Jover](/assets/MiguelJover.jpg)
+# Hey, I'm Miguel Jover!
 
-Undergraduate Software Engineer and machine learning researcher, graduating in May 2023 from the University of North Carolina at Charlotte. Well experienced in working in teams as a participant in Minwoo Jake Lee's brain-computer interface research team and as the President of UNC Charlotte's University Honors Program.
+Check out my resume below:
 
-Currently pursuing too many software engineering and game development side projects. Check out my [GitHub](https://github.com/mianjoto) to learn more.
+<iframe src="./assets/Miguel-Jover-Resume.pdf" width="100%" height="800px">
 
-[View my GitHub](https://github.com/mianjoto)
-
-[View my LinkedIn](https://www.linkedin.com/in/mianjoto/)
-
-Contact me at [mianjoto@gmail.com](mailto:mianjoto@gmail.com)
+> Note: This website will be redesigned soon—this layout is temporary and will be improved in the near future! Stay tuned for updates.

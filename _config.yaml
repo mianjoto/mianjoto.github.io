@@ -1,22 +1,17 @@
 title: Miguel Jover
-description: Portfolio
+description: Portfolio website serving Miguel Jover's resume and projects.
+
 author: "Miguel Jover"
 
-theme: minima
+theme: primer
 
 baseurl: /
 url: https://mianjoto.github.io
-
 
 # Social links
 github_username: mianjoto
 linkedin_username: mianjoto
 
-# Header links
-header_pages:
-  - index.md
-  - resume.md
-  - projects.md
-
+# Exclude files from the build
 exclude:
-  - README.md 
+  - README.md
